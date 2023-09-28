@@ -1,0 +1,44 @@
+h2{
+    font-family: "Roboto Slab", georgia, serif;
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none; text-align: center;
+}
+
+nav ul li{
+    display: inline;
+    background-color: blue;
+    color: beige;
+    margin: 15px 30px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #560b41;
+}
+
+nav ul a{
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background-color: beige;
+    color: blue;
+}
+
+section{
+    background-color: beige;
+    border: 10px solid blue;
+    border-radius: 10px;
+    margin-bottom:  20px;
+    width: 80%;
+    margin: 30px auto;
+}
+
+video{
+    width: 40%;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    height: 200px
+}
