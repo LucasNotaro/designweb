@@ -44,4 +44,12 @@ video{
 }
 pe{
     text-align: center;
+
+}
+
+div{
+    display: inline-block;
+    text-align: center;
+    width: 45%;
+    margin: 10px auto;
 }
